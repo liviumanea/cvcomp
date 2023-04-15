@@ -1,3 +1,9 @@
+# CVComp - Compares Computer Vision Models
+
+This project is a proof of concept for comparing different computer vision models and their performance.
+
+It supports running various models locally using multiprocess and remotely using redis pubsub.
+
 ## Before setting up the environment
 Note that you may need to install a rust compiler in order to build packages for particular platforms.
 Visit https://rustup.rs for more information.
